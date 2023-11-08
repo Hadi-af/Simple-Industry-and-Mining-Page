@@ -1,0 +1,222 @@
+/*========================== section one ==========================*/
+section.one {
+  background-image: url(../images/S-1/header.png);
+  width: 100%;
+  min-height: 100vh;
+  background-position: center;
+  background-size: cover;
+}
+section.one div.container-fluid {
+  background-image: linear-gradient(
+    to right,
+    rgba(33, 33, 33, 0.73) 1.27%,
+    rgba(33, 33, 33, 0.94) 96.8%
+  );
+  width: 100%;
+  min-height: 100vh;
+}
+/*========================== navbar ==========================*/
+section.one div.navbar-nav a {
+  color: #f8f8f8;
+  text-align: right;
+  font-size: 0.875rem;
+  font-weight: 500;
+  line-height: 1.5rem;
+}
+section.one a.navbar-brand {
+  color: #fff;
+  font-size: 1.25rem;
+  font-weight: 700;
+  line-height: 1.625rem;
+}
+/*========================== mainbox ==========================*/
+section.one div.mainbox {
+  height: 85vh;
+  width: 75vw;
+}
+section.one p.text-01 {
+  color: #f8f8f8;
+  font-size: 0.875rem;
+  font-weight: 500;
+}
+section.one h3.text-02 {
+  color: #f8f8f8;
+  font-size: 2.25rem;
+  font-weight: 700;
+}
+section.one span.text-03 {
+  color: #f8f8f8;
+  font-size: 2.25rem;
+  font-style: normal;
+  font-weight: 300;
+}
+section.one p.text-04 {
+  color: #d9d9d9;
+  font-size: 0.875rem;
+  font-weight: 400;
+}
+section.one a.text-05 {
+  color: #fff;
+  font-size: 1rem;
+  font-weight: 400;
+}
+section.one div.play {
+  position: relative;
+  display: inline-block;
+  border-radius: 50%;
+  height: 4.25rem !important;
+}
+section.one img.play-button {
+  position: absolute;
+  top: 1.5rem;
+  left: 1.7rem;
+}
+section.one img.circle {
+  position: absolute;
+  top: 0.4rem;
+  left: 0.4rem;
+}
+/*========================== section tow ==========================*/
+section.tow span.text-01 {
+  color: #3b55a3;
+  font-size: 0.875rem;
+  font-weight: 500;
+}
+section.tow p.text-02 {
+  color: #212121;
+  font-size: 2.25rem;
+  font-weight: 700;
+}
+section.tow span.text-03 {
+  color: #212121;
+  font-size: 2.25rem;
+  font-weight: 300;
+}
+section.tow p.text-04 {
+  color: #212121;
+  font-size: 0.875rem;
+  font-weight: 500;
+  line-height: 1.5rem;
+}
+section.tow p.text-05 {
+  color: #757575;
+  font-size: 0.875rem;
+  font-weight: 400;
+  line-height: 1.7;
+}
+section.tow div.read-more {
+  direction: rtl;
+}
+section.tow a.text-06 {
+  color: #3b55a2;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.3125rem;
+  letter-spacing: -0.011rem;
+}
+section.tow p.text-07 {
+  color: #757575;
+  font-size: 0.875rem;
+  text-align: right;
+  font-weight: 400;
+  line-height: 1.7;
+}
+/*========================== section three ==========================*/
+section.three {
+  background-image: url(../images/S-3/background.png);
+  width: 100%;
+  min-height: 100vh;
+  background-position: center;
+  background-size: cover;
+}
+section.three div.container-fluid {
+  background-color: rgba(10, 10, 10, 0.8);
+  width: 100%;
+  min-height: 100vh;
+}
+section.three .text-header {
+  direction: rtl;
+}
+section.three p.text-01 {
+  color: #f8f8f8;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 2.875rem;
+}
+section.three span.text-02 {
+  color: #f8f8f8;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 2.875rem;
+}
+section.three p.text-03 {
+  color: #d9d9d9;
+  font-size: 0.875rem;
+  font-weight: 400;
+  line-height: 1.5rem;
+}
+section.three a.text-04 {
+  color: #f3f3f4;
+  font-size: 1rem;
+  line-height: 1.3125rem;
+  letter-spacing: -0.011rem;
+}
+section.three div.read-more {
+  direction: rtl;
+}
+/*========================== section four ==========================*/
+section.four .text-header {
+  direction: rtl;
+}
+section.four p.text-01 {
+  color: #212121;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 2.875rem;
+}
+section.four span.text-02 {
+  color: #212121;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 2.875rem;
+}
+section.four p.text-03 {
+  color: #757575;
+  font-size: 0.875rem;
+  font-weight: 400;
+  line-height: 1.5rem;
+}
+section.four a.text-04 {
+  color: #3b55a3;
+  font-size: 1rem;
+  line-height: 1.3125rem;
+  letter-spacing: -0.011rem;
+}
+section.four div.read-more {
+  direction: rtl;
+}
+/*========================== section five ==========================*/
+section.five {
+  background: #f6f6f6;
+}
+section.five p {
+  color: #000;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.625rem;
+}
+section.five span {
+  color: #757575;
+  font-size: 0.875rem;
+  font-weight: 400;
+  line-height: 1.625rem;
+}
+/*========================== footer ==========================*/
+footer {
+  background: #e9e9e9;
+}
+footer p {
+  color: #212121;
+  font-size: 0.875rem;
+  margin-top: 2%;
+}
